@@ -1,2 +1,2 @@
-# ResponsiveNavbbar
+# ResponsiveNavbar
 some reccomended navbar
